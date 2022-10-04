@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Huy Dinh Anh Le
-- 👀 I’m interested in JAVA, Backend, Blockchain, Security.
-- 🌱 I’m currently learning Java Core, and Backend.
-- 💞️ I’m looking to collaborate on Blockchain remote.
+- 👀 I’m interested in JAVA, Backend, BC, Security.
+- 🌱 I’m currently working in Backend.
+- 💞️ I’m looking to collaborate on Fullstack remote.
 - 📫 How to reach me at Github: https://github.com/tutncrusoe
 
 <!---
