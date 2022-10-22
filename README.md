@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Huy Dinh Anh Le
-- 👀 I’m interested in JAVA, Backend, BC, Security.
+- 👀 I’m interested in JAVA, Backend, Python, Go, Security.
 - 🌱 I’m currently working in Backend.
-- 💞️ I’m looking to collaborate on Fullstack remote.
+- 💞️ I’m looking to collaborate on Backend and Data remote.
 - 📫 How to reach me at Github: https://github.com/tutncrusoe
 
 <!---
