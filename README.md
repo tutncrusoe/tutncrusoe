@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huy Dinh Anh Le
-- 👀 I’m interested in JAVA, Backend, Python, Go, Security.
-- 🌱 I’m currently working in Backend.
+- 👀 I’m interested in Backend, DATA, and Security.
+- 🌱 I’m currently working in JAVA, Go, Backend, Javascript, Python.
 - 💞️ I’m looking to collaborate on Micro-services and Data.
 - 📫 How to reach me at Github: https://github.com/tutncrusoe
 
